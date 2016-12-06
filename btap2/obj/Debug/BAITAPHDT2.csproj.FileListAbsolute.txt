@@ -1,0 +1,24 @@
+c:\users\k401\documents\visual studio 2015\Projects\BAITAPHDT2\BAITAPHDT2\bin\Debug\BAITAPHDT2.exe.config
+c:\users\k401\documents\visual studio 2015\Projects\BAITAPHDT2\BAITAPHDT2\bin\Debug\BAITAPHDT2.exe
+c:\users\k401\documents\visual studio 2015\Projects\BAITAPHDT2\BAITAPHDT2\bin\Debug\BAITAPHDT2.pdb
+c:\users\k401\documents\visual studio 2015\Projects\BAITAPHDT2\BAITAPHDT2\obj\Debug\BAITAPHDT2.csprojResolveAssemblyReference.cache
+c:\users\k401\documents\visual studio 2015\Projects\BAITAPHDT2\BAITAPHDT2\obj\Debug\BAITAPHDT2.exe
+c:\users\k401\documents\visual studio 2015\Projects\BAITAPHDT2\BAITAPHDT2\obj\Debug\BAITAPHDT2.pdb
+c:\users\k401\documents\visual studio 2015\Projects\BAITAPHDT2\BAITAPHDT2\obj\Debug\BAITAPHDT2.Properties.Resources.resources
+c:\users\k401\documents\visual studio 2015\Projects\BAITAPHDT2\BAITAPHDT2\obj\Debug\BAITAPHDT2.csproj.GenerateResource.Cache
+C:\Users\DIEN\Desktop\baitap-dien\BAITAP2\BAITAPHDT2\BAITAPHDT2\bin\Debug\BAITAPHDT2.exe.config
+C:\Users\DIEN\Desktop\baitap-dien\BAITAP2\BAITAPHDT2\BAITAPHDT2\bin\Debug\BAITAPHDT2.exe
+C:\Users\DIEN\Desktop\baitap-dien\BAITAP2\BAITAPHDT2\BAITAPHDT2\bin\Debug\BAITAPHDT2.pdb
+C:\Users\DIEN\Desktop\baitap-dien\BAITAP2\BAITAPHDT2\BAITAPHDT2\obj\Debug\BAITAPHDT2.csprojResolveAssemblyReference.cache
+C:\Users\DIEN\Desktop\baitap-dien\BAITAP2\BAITAPHDT2\BAITAPHDT2\obj\Debug\BAITAPHDT2.Properties.Resources.resources
+C:\Users\DIEN\Desktop\baitap-dien\BAITAP2\BAITAPHDT2\BAITAPHDT2\obj\Debug\BAITAPHDT2.csproj.GenerateResource.Cache
+C:\Users\DIEN\Desktop\baitap-dien\BAITAP2\BAITAPHDT2\BAITAPHDT2\obj\Debug\BAITAPHDT2.exe
+C:\Users\DIEN\Desktop\baitap-dien\BAITAP2\BAITAPHDT2\BAITAPHDT2\obj\Debug\BAITAPHDT2.pdb
+C:\Users\MyPC\Desktop\bai-tap-nguyendangdien1-master\bai-tap-nguyendangdien1-master\BAITAP2\BAITAPHDT2\bin\Debug\BAITAPHDT2.exe.config
+C:\Users\MyPC\Desktop\bai-tap-nguyendangdien1-master\bai-tap-nguyendangdien1-master\BAITAP2\BAITAPHDT2\bin\Debug\BAITAPHDT2.exe
+C:\Users\MyPC\Desktop\bai-tap-nguyendangdien1-master\bai-tap-nguyendangdien1-master\BAITAP2\BAITAPHDT2\bin\Debug\BAITAPHDT2.pdb
+C:\Users\MyPC\Desktop\bai-tap-nguyendangdien1-master\bai-tap-nguyendangdien1-master\BAITAP2\BAITAPHDT2\obj\Debug\BAITAPHDT2.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\bai-tap-nguyendangdien1-master\bai-tap-nguyendangdien1-master\BAITAP2\BAITAPHDT2\obj\Debug\BAITAPHDT2.Properties.Resources.resources
+C:\Users\MyPC\Desktop\bai-tap-nguyendangdien1-master\bai-tap-nguyendangdien1-master\BAITAP2\BAITAPHDT2\obj\Debug\BAITAPHDT2.csproj.GenerateResource.Cache
+C:\Users\MyPC\Desktop\bai-tap-nguyendangdien1-master\bai-tap-nguyendangdien1-master\BAITAP2\BAITAPHDT2\obj\Debug\BAITAPHDT2.exe
+C:\Users\MyPC\Desktop\bai-tap-nguyendangdien1-master\bai-tap-nguyendangdien1-master\BAITAP2\BAITAPHDT2\obj\Debug\BAITAPHDT2.pdb
